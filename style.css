@@ -97,10 +97,14 @@ li section.image {
   }
 }
 @media screen and (min-width: 768px) {
+  .header h3 {
+    font-size: 3rem;
+  }
   p.desc {
     width: 50%;
     text-align: center;
     margin: auto;
+    font-size: 1.25rem;
   }
   ul {
     display: grid;
