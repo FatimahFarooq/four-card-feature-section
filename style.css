@@ -139,4 +139,8 @@ li section.image {
     grid-column: 3/4;
     place-self: center;
   }
+
+  li.cards {
+    width: 80%;
+  }
 }
