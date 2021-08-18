@@ -60,7 +60,7 @@ li.cards {
   list-style-type: none;
   box-shadow: -3px 1px 13px 1px #e5f1f1;
   margin: 2.5em 0.5em;
-  width: 80%;
+  /* width: 80%; */
 }
 
 h4 {
